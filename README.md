@@ -12,6 +12,7 @@ university.
 a. Effective for Administration Purpose
 b. Cost effective
 c. Better Service
+
 ### UML DIAGRAMS:
 
 #### CLASS DIAGRAM
