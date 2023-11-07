@@ -10,7 +10,7 @@ attendance, and managing many other student-related data needs in a school, coll
 university.
 ### PROBLEM STATEMENT:
 a. Effective for Administration Purpose
-b. Cost effective
+b. Cost effective 
 c. Better Service
 
 ### UML DIAGRAMS:
